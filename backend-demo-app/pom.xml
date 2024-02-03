@@ -44,6 +44,7 @@
     </dependencies>
 
     <build>
+        <finalName>backend-demo-app</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
