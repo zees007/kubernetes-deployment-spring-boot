@@ -5,8 +5,11 @@ A Beginner's Step-by-Step Guide to Deploying Spring Boot application with MySQL 
 In this beginner-friendly tutorial, you will learn:
 
 ✔ Basic About Kubernetes: A detailed description about Kubernetes, Kubernetes Clusters (single & multi-nodes), available Kubernetes clusters in the market.
+
 ✔ Building Your Application Image: Step-by-step instructions on building a Docker image for your application using the Dockerfile.
+
 ✔ Pushing to Docker Hub Repository: Explore how to push your application image to Docker Hub, making it accessible for deployment.
+
 ✔ Pulling and Deploying on Kubernetes: Learn the ropes of pulling your application image from Docker Hub and deploying it on a Kubernetes cluster.
 
 But that's not all! Dive deeper into efficiency with:
