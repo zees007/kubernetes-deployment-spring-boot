@@ -1,6 +1,6 @@
-package com.kubernetes.deploy.repositories;
+package com.kubernetes.demo.repositories;
 
-import com.kubernetes.deploy.models.Message;
+import com.kubernetes.demo.models.Message;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

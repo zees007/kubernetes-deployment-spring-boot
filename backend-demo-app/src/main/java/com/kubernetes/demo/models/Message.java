@@ -1,4 +1,4 @@
-package com.kubernetes.deploy.models;
+package com.kubernetes.demo.models;
 
 
 import jakarta.persistence.*;

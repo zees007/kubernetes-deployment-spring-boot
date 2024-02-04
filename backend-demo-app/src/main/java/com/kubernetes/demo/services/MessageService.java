@@ -1,7 +1,7 @@
-package com.kubernetes.deploy.services;
+package com.kubernetes.demo.services;
 
-import com.kubernetes.deploy.models.Message;
-import com.kubernetes.deploy.repositories.MessageRepository;
+import com.kubernetes.demo.models.Message;
+import com.kubernetes.demo.repositories.MessageRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,7 +1,7 @@
-package com.kubernetes.deploy.controllers;
+package com.kubernetes.demo.controllers;
 
-import com.kubernetes.deploy.models.Message;
-import com.kubernetes.deploy.services.MessageService;
+import com.kubernetes.demo.models.Message;
+import com.kubernetes.demo.services.MessageService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
