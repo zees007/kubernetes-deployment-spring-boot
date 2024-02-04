@@ -1,0 +1,28 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: backend-demo-app-deployment
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: backend-demo-app
+  template:
+    metadata:
+      labels:
+        app: backend-demo-app
+    spec:
+      containers:
+        - name: backend-demo-app
+          image: zees007/backend-demo-app:latest
+          ports:
+            - containerPort: 9090
+          env:
+            - name: MYSQL_HOST
+              value: mysql-service
+            - name: MYSQL_PORT
+              value: "3306"
+            - name: MYSQL_USERNAME
+              value: root
+            - name: MYSQL_PASSWORD
+              value: root
