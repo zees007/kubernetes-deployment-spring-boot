@@ -16,3 +16,8 @@ But that's not all! Dive deeper into efficiency with:
 
 ✔ Streamlined Local Development: Master the art of building images and containers effortlessly for local development using Docker Compose.
 This guide offers a comprehensive solution - from building to containerizing and deploying your Spring Boot application. Make your mark in the cloud computing landscape with newfound knowledge and skills.
+
+👉 Follow my blog for step by step tutorial:
+
+https://medium.com/gitconnected/from-localhost-to-the-cloud-deploying-spring-boot-mysql-app-on-kubernetes-with-docker-desktop-a-8c51f9cd23fa
+
