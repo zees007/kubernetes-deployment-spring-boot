@@ -2,6 +2,8 @@
 
 A Beginner's Step-by-Step Guide to Deploying Spring Boot application with MySQL on Kubernetes via Docker Hub
 
+![Dockerfile](https://github.com/user-attachments/assets/453e06eb-7ca5-433a-bef2-97cfc8749564)
+
 In this beginner-friendly tutorial, you will learn:
 
 ✔ Basic About Kubernetes: A detailed description about Kubernetes, Kubernetes Clusters (single & multi-nodes), available Kubernetes clusters in the market.
@@ -20,4 +22,39 @@ This guide offers a comprehensive solution - from building to containerizing
 👉 Follow my blog for step by step tutorial:
 
 https://medium.com/gitconnected/from-localhost-to-the-cloud-deploying-spring-boot-mysql-app-on-kubernetes-with-docker-desktop-a-8c51f9cd23fa
+
+<h1>❤️ Support & Engagement ❤️</h1>
+
+⭐ If you find this project helpful, please give it a star on [GitHub](https://github.com/zees007/kubernetes-deployment-spring-boot)! 
+
+⭐ If you find this article informative and beneficial on medium, please consider showing your appreciation by giving it a clap 👏👏👏, highlight it and replying on my story story. Feel free to share this article with your peers. Your support and knowledge sharing within the developer community are highly valued.
+
+⭐ Please share on social media
+
+⭐ Follow me on : [Medium](https://medium.com/@mhmdzeeshan) || [LinkedIn](https://www.linkedin.com/in/zeeshan-adil-a94b3867/) || [X (Formerly Twitter)](https://x.com/DevZeesCraft)
+
+⭐ Check out my work, projects, and more on my [Linktree](https://linktr.ee/zees007)
+
+⭐ [Check out my other articles on Medium](https://medium.com/@mhmdzeeshan)
+
+⭐ [Subscribe to my newsletter 📧](https://medium.com/@mhmdzeeshan/subscribe), so that you don’t miss out on my latest articles.
+
+⭐ If you enjoyed my article, please consider [buying me a coffee ❤️](https://buymeacoffee.com/mhmdzeeshan) and stay tuned to more articles about java, technologies and AI. 🧑‍💻
+
+## Contact me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/zeeshan-adil-a94b3867/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+  </a>
+  <img width="20" />
+  <a href="https://medium.com/@mhmdzeeshan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=medium&logo=medium&label=&color=black&logoColor=white&labelColor=&style=flat" height="35" alt="medium logo"  />
+  </a>
+  <img width="20" />
+  <a href="https://facebook.com/groups/321306497491174/?ref=share_group_link" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="35" alt="stackoverflow logo"  />
+  </a>
+</div>
+
 
